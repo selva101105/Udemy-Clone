@@ -9,7 +9,9 @@ A simple clone of the Udemy website built with **HTML** and **CSS**.
 - Hover effects for interactivity  
  
 ## Technologies
-- HTML5, CSS3  
+- HTML5, CSS3
+
+  https://selva101105.github.io/Udemy-Clone/
 
   
  
